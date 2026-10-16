@@ -15,6 +15,6 @@ namespace Tyuiu.MengAV.Sprint2.Task0.V12.Lib
                 x - y <= 620,
                 x + y >= 2000
             };
-        }
+        } 
     }
 }

@@ -21,6 +21,6 @@ namespace Tyuiu.MengAV.Sprint2.Task0.V12.Test
             bool[] actual = ds.GetCompareOperations(1095, 475);
 
             Assert.Equal(6, actual.Length);
-        }
+        } 
     }
 }

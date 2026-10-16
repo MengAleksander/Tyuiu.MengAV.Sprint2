@@ -20,4 +20,4 @@ Console.WriteLine(text);
 #endregion
 
 bool[] res = ds.GetCompareOperations(1095, 475);
-Console.WriteLine(string.Join(", ", res));
+Console.WriteLine(string.Join(", ", res)); 
