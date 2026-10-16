@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text", "Text", "{585178DE-D
 	ProjectSection(SolutionItems) = preProject
 		Region.txt = Region.txt
 		TXT.txt = TXT.txt
+		Yravnenie.txt = Yravnenie.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MengAV.Sprint2.Task0.V12", "Tyuiu.MengAV.Sprint2.Task0.V12\Tyuiu.MengAV.Sprint2.Task0.V12.csproj", "{1464BD06-1F5B-49CF-A4F7-6A5700186024}"

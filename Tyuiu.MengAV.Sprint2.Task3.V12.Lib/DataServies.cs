@@ -6,7 +6,7 @@ namespace Tyuiu.MengAV.Sprint2.Task3.V12.Lib
     {
         public double Calculate(double x)
         {
-            double result;
+            double result; 
 
             if (x > 1)
             {
